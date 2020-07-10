@@ -1,0 +1,10 @@
+# for singe files
+mahesh.info
+
+# for multiple files
+*.log
+
+# for a directory
+mahesh/
+
+
